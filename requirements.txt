@@ -1,2 +1,2 @@
 2captcha-python
-fake_useragent
+fake-useragent
